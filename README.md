@@ -8,10 +8,3 @@ Description: Overview Of Lean-Plate-SCSS
   </h1>
 </center>
 <hr >
-
-<style>
-#title {
-  color: #000;
-}
-
-</style>
