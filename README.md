@@ -1,4 +1,4 @@
-:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:
+:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:
 # Lean Plate SCSS
 
 [Lean Plate](https://github.com/elamahpla/LeanPlateSCSS) is an incredibly lean boilerplate for [React](https://reactjs.org/) which makes use of [Scss](https://sass-lang.com/) as its preprocessor. I wanted to make a boilerplate that doesn't have a huge footprint, but that can also use [Scss](https://sass-lang.com/) so the solution was simple; Make my own.
