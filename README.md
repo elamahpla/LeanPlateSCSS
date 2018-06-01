@@ -24,7 +24,7 @@ Aftewards, you'll want to CD into the folder and do the following:
 ```
 npm install
 ```
-
+then:
 ```
 npm start
 ```
