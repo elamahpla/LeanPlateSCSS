@@ -19,7 +19,8 @@ To use this you either need to download or clone the repo:
 <p align="center">
   <img src="https://s3-us-west-2.amazonaws.com/mypersonalimages/forreporeadme.png" alt="Clone or Download Repo">
 </p>
-Aftewards, you'll want to CD into the folder and do the following: 
+Aftewards, you'll want to CD into the folder and do the following:
+
 ```
 npm install
 ```
