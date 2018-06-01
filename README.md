@@ -22,6 +22,9 @@ To use this you either need to download or clone the repo:
 Aftewards, you'll want to CD into the folder and do the following: 
 ```
 npm install
+```
+then:
+```
 npm start
 ```
 If an error occurs, try the following:
