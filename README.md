@@ -38,13 +38,15 @@ Should an error **STILL** show, you'll have to submit a bug report or issue.
 
 # Post-Download:
 
-Once you have it setup, you can check to file and folder structure to change it as you see fit. A word of warning; **IF YOU WANT TO CHANGE THE NAME OF THE INDEX.JS FILE, YOU HAVE TO DO SO IN THE PACKAGE.JSON AND WEBPACK.CONFIG.JS FILE**
+Once you have it setup, you can check to file and folder structure to change it as you see fit. A word of warning: **IF YOU WANT TO CHANGE THE NAME OF THE INDEX.JS FILE, YOU HAVE TO DO SO IN THE PACKAGE.JSON AND WEBPACK.CONFIG.JS FILE**
 
 # Production Build:
 Once you feel satisfied with your project, go to your command line and type the following commands:
 ```
 npm run compile:sass
+```
 then
+```
 npm run build:prod
 ```
 There you go, you'll have a minified bundle.js file afterwards.
